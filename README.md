@@ -1,7 +1,7 @@
 # Backend bible
 땅땅한 백엔드 개발자가 되기 위한 여정!
 
-<img src="https://i.pinimg.com/originals/cc/e5/48/cce54859e1677d77de676d05ae870302.jpg" alt="Artists에 있는 园萍님의 핀 | 웃긴 인용구, 캐릭터 인용구, 웃긴 밈" style="zoom:50%;" />
+<img src="https://i.pinimg.com/originals/cc/e5/48/cce54859e1677d77de676d05ae870302.jpg" alt="Artists에 있는 园萍님의 핀 | 웃긴 인용구, 캐릭터 인용구, 웃긴 밈" style="width:50vw;" />
 
 <br>
 
