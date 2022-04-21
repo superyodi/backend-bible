@@ -29,7 +29,6 @@
   + OSI 7 Layers
   + TCP/IP
   + 3 way handshake
-
 + Internet
 
   + 인터넷의 작동 원리
@@ -38,16 +37,8 @@
   + DNS와 그 작동 원리
   + 도메인 이름이란?
   + 호스팅이란?
-
-+ 프론트엔드 기본 지식
-
-  + HTML
-  + CSS
-  + JavaScript
-
 + OS에 대한 전반적인 지식
 
-  + 터미널 사용법
   + OS의 일반적 작동 원리
   + 프로세스 관리
   + 스레드와 동시성
@@ -58,8 +49,8 @@
     + `stdin, stdout, stderr, pipes`
   + 터미널 기본 명령
     + `grep, awk, sed, lsof, curl, wget, tail, head, less, find, ssh, kill`
-
-  + 네트워크 기본 개념 
+  
++ 네트워크 기본 개념 
 
 
 
@@ -111,18 +102,18 @@
 
 
 
-+ **1주차 (22.04.13)**
-
++ 1주차 (22.04.13)
   + OSI 7 Layers
   + TCP/IP
   + 3 way handshake
 
   + 인터넷의 작동 원리
-
-+ 2주차(22.04.20)
-
++ **2주차(22.04.21)**
   + HTTP란? 메소드, 상태코드
   + 브라우저와 그 작동 원리
   + DNS와 그 작동 원리
   + 도메인 이름이란?
   + 호스팅이란?
++ 3주차(22.04.27)
+  + REST
+  + REST API 분석
