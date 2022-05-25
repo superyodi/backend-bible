@@ -11,10 +11,7 @@
 + [동작구민](https://github.com/Dongjakgu-Min)
 + [강윤주](https://github.com/9an9)
 
-
-
 ## Roadmap
-
 
 
 > https://roadmap.sh/backend (원본)
@@ -123,7 +120,7 @@
   + Basic 인증
   + 토큰 인증
   + JWT 개념
-+ **6주차(22.05.25)**
++ 6주차(22.05.25)
   + JWT 구현
 + **7주차(22.06.08)**
   + 서버 사이드 캐시(캐시서버)
