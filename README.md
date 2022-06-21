@@ -127,4 +127,4 @@
 + 8주차(22.06.15)
   + MD5와 이를 사용하지 않는 이유, SHA 함수군, scrypt, bcrypt 
 + **9주차(22.06.22)**
-  + HTTPS, CSP (콘텐츠 보안 정책), CORS
+  + HTTPS, SSL/TLS
